@@ -14,9 +14,6 @@ Running instructions:
 run the following command to perform Leave one out CV using KNN for 3 features and 2 features
 'python knn_evaluate.py'
 
-run the following command to perform Leave one out CV using Gaussian Naive Bayes for 3 features and 2 features
-'python gaussian_naive_bayes_evaluate.py'
-
 Inorder to use custom data, copy the data to a text file and use Load_train* or Load_test* functions with appropriate paths to .txt files.
 
 All supporting functions are mainly located in utilities.py
